@@ -23,7 +23,7 @@ public class Pattern17 {
 		
 		/*
 		 
-	 A
+     A
     ABA
    ABCAB
   ABCDABC
